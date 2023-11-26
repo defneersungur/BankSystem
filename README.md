@@ -1,2 +1,2 @@
 # BankSystem
- Bank System using with Java and GUI
+ Bank System using Java and GUI
